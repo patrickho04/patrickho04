@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Patrick Ho</h1>
 
-- 🌱 Currently interested in data engineering and robotics.
+- 🌱 Currently interested in data engineering, robotics, and machine learning.
 
 - 👨‍💻 All of my projects are available at [portfoliowebsite.com](portfoliowebsite.com)
 
