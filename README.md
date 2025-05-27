@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Patrick Ho</h1>
-<h3 align="center">Interested in data engineering and robotics.</h3>
 
-- 🌱 Currently learning **C++, ROS2, AWS for Data Engineering**
+- 🌱 Currently interested in data engineering and robotics.
 
 - 👨‍💻 All of my projects are available at [portfoliowebsite.com](portfoliowebsite.com)
 
